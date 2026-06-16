@@ -21,7 +21,7 @@ O(n)
 
 ---
 
-# Fundamental Pattern
+# Fundamental Patern
 
 ```cpp
 int l = 0;
